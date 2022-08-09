@@ -1,4 +1,4 @@
-Backend básico: node, express, sequelize, mysql/postgres
+# Backend básico: node, express, sequelize, mysql/postgres
 
 Tablas:
 projects y tasks
